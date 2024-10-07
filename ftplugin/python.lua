@@ -1,0 +1,1 @@
+-- Enter the command :options to open an interactive window to setup vim options for the duration of a session.

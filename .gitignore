@@ -1,0 +1,30 @@
+# Gitignore for the following technologies: Lua
+# Neovim specific
+session.vim
+undo/*
+
+# Temporary files
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+
+# Backup files
+*.bak
+*~
+
+# Compiled files
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+*.bin
+*.exe
+*.out
+
+# Lua cache
+*.luac
+cache/
+.luarc.json
